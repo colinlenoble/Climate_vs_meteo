@@ -11,6 +11,7 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+temp/
 downloads/
 eggs/
 .eggs/
@@ -44,6 +45,7 @@ htmlcov/
 .coverage.*
 .cache
 data/
+output/
 nosetests.xml
 coverage.xml
 *.cover
