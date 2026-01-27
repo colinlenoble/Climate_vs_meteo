@@ -44,7 +44,7 @@ htmlcov/
 .coverage
 .coverage.*
 .cache
-data/
+data/Open-Meteo/
 output/
 nosetests.xml
 coverage.xml
