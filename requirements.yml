@@ -12,6 +12,8 @@ dependencies:
   - pip
   - ipykernel
   - scikit-learn
+  - streamlit
+  - plotly
   - pip:
       - openmeteo-requests
       - retry-requests
