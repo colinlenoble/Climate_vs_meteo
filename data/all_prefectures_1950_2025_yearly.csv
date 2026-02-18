@@ -1,4 +1,4 @@
-time,canicule,temperature_2m_mean,snowfall_sum,nb_days_snow,Commune,Departement,year
+time,nb_days_heatwave,temperature_2m_mean,snowfall_sum,nb_days_snow,Commune,Departement,year
 1950-01-01,0,11.169315068493152,18.06,15,Orléans,45,1950
 1951-01-01,0,10.662739726027398,1.75,6,Orléans,45,1951
 1952-01-01,3,10.816939890710383,28.560000000000002,24,Orléans,45,1952

@@ -8,15 +8,13 @@ st.set_page_config(page_title="Climat en France", layout="wide")
 
 VARIABLES = {
     "temperature_2m_mean": "Température moyenne (°C)",
-    "snowfall_sum": "Précipitations neigeuses (cm)",
-    "canicule": "Jours de canicule",
+    "nb_days_heatwave": "Jours de canicule",
     "nb_days_snow": "Jours de neige",
 }
 
 COLORSCALES = {
     "temperature_2m_mean": "RdBu_r",
-    "snowfall_sum": "RdBu",
-    "canicule": "RdBu_r",
+    "nb_days_heatwave": "RdBu_r",
     "nb_days_snow": "RdBu",
 }
 
